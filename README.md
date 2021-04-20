@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @k9-maru.
 - 👀 I’m interested in Game, Mobile/Desktop Apps.
-- 🌱 I already have experience in C, C++, Java, C#.
+- 🌱 I have experience in C, C++, Java, C#.
 - 🌱 I’m currently learning C#, Unity.
 - 📫 How to reach me: 
 + Email: willbefallen@gmail.com
