@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @k9-maru.
+- 👋 Hi, I’m @maru.
 - 👀 I’m interested in Game, Mobile/Desktop Apps.
 - 🍊 I have experiences in C++, Java.
 - 🌱 I’m currently learning Unity.
