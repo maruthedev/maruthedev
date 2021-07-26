@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @maru.
-- 👀 I’m interested in Game, Mobile/Desktop Apps.
+- 👋 Hi, I’m @txmr.
+- 👀 I’m interested in Game, Mobile Applications.
 - 🍊 I have experiences in C++, Java.
 - 🌱 I’m currently learning Unity.
 - 📫 How to reach me: 
