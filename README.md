@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @txmr.
+- 👋 Hi, I’m @maru.
 - 👀 I’m interested in Game, Mobile Applications.
 - 🍊 I have experiences in C++, Java.
 - 🌱 I’m currently learning Unity.
