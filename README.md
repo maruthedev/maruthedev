@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maru.
 - 👀 I’m interested in Game, Mobile Applications.
 - 🍊 I have experiences in C++, Java.
-- 🌱 I’m currently learning Java, Unity.
+- 🌱 I’m currently learning Java, Unity, JavaScript.
 - 📫 How to reach me: 
   Email: tulm812ptit@gmail.com
 <!---
