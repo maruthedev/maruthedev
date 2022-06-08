@@ -21,7 +21,7 @@
 [<img align="left" alt="Intellij" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="VS Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 
-## Github Stats(https://github-readme-stats.vercel.app/api?username=k9-maru&show_icons=true&theme=radical)
+## [Github Stats](https://github-readme-stats.vercel.app/api?username=k9-maru&show_icons=true&theme=radical)
 
 
 <!---
