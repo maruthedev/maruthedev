@@ -20,13 +20,15 @@
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Intellij" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
 <img align="left" alt="VS Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<br />
-<br />
+<br>
+<br>
 
-### Github stats
+### Me at Github
 <div align="left">
+    <h4>Stats</h4>
     <img src="https://github-readme-stats.vercel.app/api?username=k9-maru"/>
-  </a>
+  </a><br><br>
+    <h4>Top languages</h4>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k9-maru"/>
 </div>
 
