@@ -25,11 +25,9 @@
 
 ### Github stats
 <div align="left">
-  <a href="#" title="ME">
-    <img width="300" align="center" src="https://github-readme-stats.vercel.app/api?username=k9-maru"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=k9-maru"/>
   </a>
-    <img align="right" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k9-maru"/>
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k9-maru"/>
 </div>
 
 
