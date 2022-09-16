@@ -2,7 +2,7 @@
 
 ### I'm a college student, a developer, a cate lover :heart_eyes_cat:
 - 👀 I’m interested in ¯\\_(ツ)_/¯ 
-- 🍊 I have experiences in C++, Java.
+- 🍊 I have experiences in Java, JavaScript.
 - 🌱 I’m currently learning Java Spring, JavaScript.
 
 ### Connect with me
