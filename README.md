@@ -1,6 +1,6 @@
 # 👋 Hi, I’m La Manh Tu.
 
-### I'm a college student, a developer, a cate lover and a wibu(in past)
+### I'm a college student, a developer, a cate lover :heart_eyes_cat:
 - 👀 I’m interested in ¯\\_(ツ)_/¯ 
 - 🍊 I have experiences in C++, Java.
 - 🌱 I’m currently learning Java Spring, JavaScript.
