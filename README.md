@@ -4,6 +4,7 @@
 - 👀 I’m interested in ¯\\_(ツ)_/¯ 
 - 🍊 I have experiences in Java, JavaScript.
 - 🌱 I’m currently learning Java Spring, JavaScript.
+- 🏢 I have worked for THV since early October 2022.
 
 ### Connect with me
 [FACEBOOK](https://www.facebook.com/tuudotexe/)
