@@ -1,6 +1,7 @@
 # 👋 Hi, I’m La Manh Tu.
 
 ### I'm a college student, a developer, a cate lover :heart_eyes_cat:
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 - 👀 I’m interested in ¯\\_(ツ)_/¯ 
 - 🍊 I have experiences in Java, JavaScript.
 - 🌱 I’m currently learning Java Spring, JavaScript.
