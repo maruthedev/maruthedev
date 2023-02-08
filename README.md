@@ -26,6 +26,7 @@
 <br>
 
 ### Me at Github
+<!---
 <div align="left">
     <h4>Stats</h4>
     <img src="https://github-readme-stats.vercel.app/api?username=k9-maru"/>
@@ -33,7 +34,9 @@
     <h4>Top languages</h4>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k9-maru"/>
 </div>
+--->
 
+![](https://gitwar.herokuapp.com/badge?username=maruthedev)
 
 <!---
 k9-maru/k9-maru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
