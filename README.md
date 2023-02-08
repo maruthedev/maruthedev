@@ -27,12 +27,12 @@
 
 ### Me at Github
 <!---
-<div align="left">
+<div align="center">
     <h4>Stats</h4>
-    <img src="https://github-readme-stats.vercel.app/api?username=k9-maru"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=maruthedev"/>
   </a><br><br>
     <h4>Top languages</h4>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k9-maru"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthedev"/>
 </div>
 --->
 
