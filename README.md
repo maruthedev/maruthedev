@@ -22,7 +22,7 @@
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Intellij" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
 <img align="left" alt="VS Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="VS Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" style="padding-right:10px;" />
+<img align="left" alt="VS Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original-wordmark.svg" style="padding-right:10px;" />
 <br>
 <br>
 
