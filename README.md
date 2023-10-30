@@ -1,6 +1,6 @@
 # 👋 Hi, I’m La Manh Tu.
-aka トゥー
-aka Eddie
+  aka トゥー
+  aka Eddie
 
 ### I'm a developer, a cate lover :heart_eyes_cat:
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
@@ -28,7 +28,7 @@ aka Eddie
 <img align="left" alt="Intellij" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
 <img align="left" alt="VS Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Unity" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Unity" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" style="padding-right:10px;" />
 <br>
 <br>
 
