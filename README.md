@@ -1,12 +1,11 @@
 # 👋 Hi, I’m La Manh Tu.
-  aka トゥー
-  aka Eddie
 
-### I'm a developer, a cate lover :heart_eyes_cat:
+### A typical Java Software Engineer
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-- 👀 I’m interested in SLEEP ｡-ᆺ-｡ <( Zzz) .
-- 🍊 I have experiences in Java, Javascript Vanilla, a little Unity and C# (Mono I think).
-- 🌱 I’m currently doing with Java Core.
+- 👀 I’m interested in Server-side/Full-stack development.
+- 🍊 I have experiences in Java Core,Java Spring, Javascript, MySQL and PostgreSQL.
+- 🌱 I'm learning Typescript and Angular.
+- 💻 I'm mainly working with Java core currently.  
 - 🏢 I have been working for [TAP](https://www.tap-ic.co.jp/) (Ha Noi Office) since the beginning of October 2022.
 
 ### Connect with me
